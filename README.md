@@ -1,0 +1,2 @@
+# Mushroom-Classification-using-ML-and-DL-hyperparameter-optimization-by-Grid-Search-XAI-
+Mushroom Classification using Machine Learning Models (Logistic Regression, Decision Trees, Random Forest, Gradient Boosting Machines (GBM), Support Vector Machines (SVM), K-Nearest Neighbors (KNN), Naive Bayes, Linear Discriminant Analysis (LDA), Quadratic Discriminant Analysis) and Deep Learning (ANN) + Grid Search wherever it is applicable. 
